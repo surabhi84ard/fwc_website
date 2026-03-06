@@ -1,4 +1,4 @@
-# IIITB COMET Foundation Website
+# IIITB COMET Foundation FWC Website
 
 Official website for IIITB COMET Foundation - Future Wireless Communications Program.
 
